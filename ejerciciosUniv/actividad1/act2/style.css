@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Ranga');
+
+body{
+	text-align: center;
+	background-color: #FF342F;
+	font-family: 'Ranga',  cursive;
+}
+
+
+input,  textarea{
+	border-radius: 10px;
+}
+
